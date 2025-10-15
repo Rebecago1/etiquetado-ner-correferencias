@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:ex="http://ejemplo.com/">
+    <rdf:Description rdf:about="http://ejemplo.com/SeveroOchoa">
+        <ex:nacióEn rdf:resource="http://ejemplo.com/Luarca"/>
+        <ex:nacióEl>24 de noviembre de 1905</ex:nacióEl>
+        <ex:estudianteDe rdf:resource="http://ejemplo.com/FacultadMedicinaMadrid"/>
+        <ex:estudianteDeMedicinaDesde>1923</ex:estudianteDeMedicinaDesde>
+        <ex:inicióInvestigacionesEn rdf:resource="http://ejemplo.com/laboratorioGlasgow"/>
+        <ex:inicióInvestigacionesEn rdf:resource="http://ejemplo.com/laboratorioBerlin"/>
+        <ex:recibió rdf:resource="http://ejemplo.com/becaHonorifica"/>
+        <ex:seTrasladóA rdf:resource="http://ejemplo.com/Berlin"/>
+        <ex:huyóDe rdf:resource="http://ejemplo.com/GuerraCivil"/>
+        <ex:esposoDe rdf:resource="http://ejemplo.com/Carmen"/>
+        <ex:huyóCon rdf:resource="http://ejemplo.com/Carmen"/>
+        <ex:seRefugióEn rdf:resource="http://ejemplo.com/CasaEspanaParis"/>
+        <ex:regresóA rdf:resource="http://ejemplo.com/España"/>
+        <ex:trabajóEn rdf:resource="http://ejemplo.com/DepartamentoMedicinaNY"/>
+        <ex:trabajóEnNYUDesde>1942</ex:trabajóEnNYUDesde>
+        <ex:trabajóEnNYUHasta>1974</ex:trabajóEnNYUHasta>
+        <ex:recibióPremio rdf:resource="http://ejemplo.com/PremioNobelFisiologiaMedicina"/>
+        <ex:recibióNobelEn>1959</ex:recibióNobelEn>
+        <ex:colegaDe rdf:resource="http://ejemplo.com/Kornberg"/>
+        <ex:regresóDefinitivamenteA>España en 1985</ex:regresóDefinitivamenteA>
+        <ex:trabajóFinalmenteEn rdf:resource="http://ejemplo.com/CentroBiologiaMolecularSeveroOchoa"/>
+        <ex:murióEl>1 de noviembre de 1993</ex:murióEl>
+        <ex:enterradoEn rdf:resource="http://ejemplo.com/Luarca"/>
+        <ex:sepultadoJuntoA rdf:resource="http://ejemplo.com/Carmen"/>
+        <ex:compatriotaDe rdf:resource="http://ejemplo.com/PioBaroja"/>
+        <ex:compatriotaDe rdf:resource="http://ejemplo.com/BlasCabrera"/>
+        <ex:compatriotaDe rdf:resource="http://ejemplo.com/XavierZubiri"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/Luarca">
+        <ex:villaDe rdf:resource="http://ejemplo.com/Asturias"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/Asturias">
+        <ex:comunidadAutónomaDe rdf:resource="http://ejemplo.com/España"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/laboratorioGlasgow">
+        <ex:situadoEn rdf:resource="http://ejemplo.com/Glasgow"/>
+        <ex:dirigidoPor rdf:resource="http://ejemplo.com/Paton"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/laboratorioBerlin">
+        <ex:situadoEn rdf:resource="http://ejemplo.com/Berlin"/>
+        <ex:dirigidoPor rdf:resource="http://ejemplo.com/Meyerhof"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/Paton">
+        <ex:conTítuloDe>profesor</ex:conTítuloDe>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/Meyerhof">
+        <ex:conTítuloDe>profesor</ex:conTítuloDe>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/becaHonorifica">
+        <ex:conDestinoEn rdf:resource="http://ejemplo.com/laboratorioGlasgow"/>
+        <ex:concedidaPor rdf:resource="http://ejemplo.com/JuntaAmpliacionEstudios"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/JuntaAmpliacionEstudios">
+        <ex:situadaEn rdf:resource="http://ejemplo.com/España"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/GuerraCivil">
+        <ex:estallóEn rdf:resource="http://ejemplo.com/España"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/CasaEspanaParis">
+        <ex:refugioDe rdf:resource="http://ejemplo.com/PioBaroja"/>
+        <ex:refugioDe rdf:resource="http://ejemplo.com/BlasCabrera"/>
+        <ex:refugioDe rdf:resource="http://ejemplo.com/XavierZubiri"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://ejemplo.com/PremioNobelFisiologiaMedicina">
+        <ex:otorgadoA rdf:resource="http://ejemplo.com/SeveroOchoa"/>
+        <ex:otorgadoA rdf:resource="http://ejemplo.com/Kornberg"/>
+    </rdf:Description>
+
+</rdf:RDF>
