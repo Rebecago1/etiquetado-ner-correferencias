@@ -1,0 +1,1738 @@
+[
+    {
+        "id": 33,
+        "annotations": [
+            {
+                "id": 13,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 973,
+                            "end": 981,
+                            "text": "Kornberg",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "id": "EY1lLXWg25",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 548,
+                            "end": 554,
+                            "text": "Carmen",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "id": "zcD2masHU1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "Severo Ochoa ",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "id": "6QLhH-rDva",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 486,
+                            "end": 492,
+                            "text": "España",
+                            "labels": [
+                                "GPE_NAT"
+                            ]
+                        },
+                        "id": "ikVa9SO9ri",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 69,
+                            "end": 76,
+                            "text": "Luarca,",
+                            "labels": [
+                                "GPE_PC"
+                            ]
+                        },
+                        "id": "PxcKuy89iF",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 726,
+                            "end": 764,
+                            "text": "Departamento de Medicina de Nueva York",
+                            "labels": [
+                                "ORG_SCI"
+                            ]
+                        },
+                        "id": "b0Xl-bZMcd",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 561,
+                            "end": 584,
+                            "text": "Casa de España en París",
+                            "labels": [
+                                "ORG_CULT"
+                            ]
+                        },
+                        "id": "znQ2DXFfc9",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 20,
+                            "end": 60,
+                            "text": "médico, bioquímico y biólogo molecular. ",
+                            "labels": [
+                                "ATR"
+                            ]
+                        },
+                        "id": "K_arCu47no",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 116,
+                            "end": 118,
+                            "text": "Su",
+                            "labels": [
+                                "PRO"
+                            ]
+                        },
+                        "id": "U4lX3e2-kp",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 231,
+                            "end": 233,
+                            "text": "Su",
+                            "labels": [
+                                "PRO"
+                            ]
+                        },
+                        "id": "tRICLLX3ce",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 864,
+                            "end": 866,
+                            "text": "su",
+                            "labels": [
+                                "PRO"
+                            ]
+                        },
+                        "id": "GlNsrZXrLO",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 879,
+                            "end": 890,
+                            "text": "este centro",
+                            "labels": [
+                                "NOM"
+                            ]
+                        },
+                        "id": "sZz88USj8f",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 766,
+                            "end": 777,
+                            "text": "institución",
+                            "labels": [
+                                "NOM"
+                            ]
+                        },
+                        "id": "ajiy2CSBRQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 172,
+                            "end": 174,
+                            "text": "se",
+                            "labels": [
+                                "PRO"
+                            ]
+                        },
+                        "id": "BNeBWsaftu",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 351,
+                            "end": 354,
+                            "text": "se ",
+                            "labels": [
+                                "PRO"
+                            ]
+                        },
+                        "id": "9GVnTgpR_4",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 530,
+                            "end": 532,
+                            "text": "se",
+                            "labels": [
+                                "PRO"
+                            ]
+                        },
+                        "id": "sGiv9nXNOb",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 778,
+                            "end": 854,
+                            "text": "en la que desarrolló su brillante carrera docente e investigadora hasta 1974",
+                            "labels": [
+                                "ARC"
+                            ]
+                        },
+                        "id": "KdjsZ4hDiN",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 537,
+                            "end": 546,
+                            "text": "su esposa",
+                            "labels": [
+                                "APP"
+                            ]
+                        },
+                        "id": "qWUjaGvqDP",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 960,
+                            "end": 972,
+                            "text": "su compañero",
+                            "labels": [
+                                "APP"
+                            ]
+                        },
+                        "id": "2m-HcbtuD0",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1134,
+                            "end": 1149,
+                            "text": "su pueblo natal",
+                            "labels": [
+                                "NOM"
+                            ]
+                        },
+                        "id": "9y7JjCTItO",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1159,
+                            "end": 1168,
+                            "text": "su mujer.",
+                            "labels": [
+                                "NOM"
+                            ]
+                        },
+                        "id": "2sQYt8uqTY",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 586,
+                            "end": 603,
+                            "text": "donde se encontró",
+                            "labels": [
+                                "ARC"
+                            ]
+                        },
+                        "id": "O4L0QcEUmT",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 608,
+                            "end": 626,
+                            "text": "otros compatriotas",
+                            "labels": [
+                                "NOM"
+                            ]
+                        },
+                        "id": "Tibv2SskGm",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 655,
+                            "end": 668,
+                            "text": "Xavier Zubiri",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "id": "-UvdIPQs08",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 640,
+                            "end": 652,
+                            "text": "Blas Cabrera",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "id": "-u4Cv6-Pys",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 628,
+                            "end": 638,
+                            "text": "Pío Baroja",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "id": "tgD8EIFGyl",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1069,
+                            "end": 1082,
+                            "text": "Severo Ochoa.",
+                            "labels": [
+                                "COR"
+                            ]
+                        },
+                        "id": "y1Ogspar6Q",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 345,
+                            "end": 350,
+                            "text": "Ochoa",
+                            "labels": [
+                                "COR"
+                            ]
+                        },
+                        "id": "pztRqU0DkZ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1016,
+                            "end": 1023,
+                            "text": "España ",
+                            "labels": [
+                                "COR"
+                            ]
+                        },
+                        "id": "w5sodUPYvv",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "K_arCu47no",
+                        "to_id": "6QLhH-rDva",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Atributiva"
+                        ]
+                    },
+                    {
+                        "from_id": "U4lX3e2-kp",
+                        "to_id": "6QLhH-rDva",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Pronominal"
+                        ]
+                    },
+                    {
+                        "from_id": "BNeBWsaftu",
+                        "to_id": "6QLhH-rDva",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Pronominal"
+                        ]
+                    },
+                    {
+                        "from_id": "tRICLLX3ce",
+                        "to_id": "6QLhH-rDva",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Pronominal"
+                        ]
+                    },
+                    {
+                        "from_id": "pztRqU0DkZ",
+                        "to_id": "6QLhH-rDva",
+                        "type": "relation",
+                        "direction": "bi",
+                        "labels": [
+                            "Correferencial"
+                        ]
+                    },
+                    {
+                        "from_id": "9GVnTgpR_4",
+                        "to_id": "6QLhH-rDva",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Pronominal"
+                        ]
+                    },
+                    {
+                        "from_id": "ikVa9SO9ri",
+                        "to_id": "w5sodUPYvv",
+                        "type": "relation",
+                        "direction": "bi",
+                        "labels": [
+                            "Correferencial"
+                        ]
+                    },
+                    {
+                        "from_id": "sGiv9nXNOb",
+                        "to_id": "6QLhH-rDva",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Pronominal"
+                        ]
+                    },
+                    {
+                        "from_id": "qWUjaGvqDP",
+                        "to_id": "zcD2masHU1",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Apositiva"
+                        ]
+                    },
+                    {
+                        "from_id": "O4L0QcEUmT",
+                        "to_id": "znQ2DXFfc9",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Relativa"
+                        ]
+                    },
+                    {
+                        "from_id": "Tibv2SskGm",
+                        "to_id": "tgD8EIFGyl",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Nominal"
+                        ]
+                    },
+                    {
+                        "from_id": "Tibv2SskGm",
+                        "to_id": "-u4Cv6-Pys",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Nominal"
+                        ]
+                    },
+                    {
+                        "from_id": "Tibv2SskGm",
+                        "to_id": "-UvdIPQs08",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Nominal"
+                        ]
+                    },
+                    {
+                        "from_id": "ajiy2CSBRQ",
+                        "to_id": "b0Xl-bZMcd",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Nominal"
+                        ]
+                    },
+                    {
+                        "from_id": "KdjsZ4hDiN",
+                        "to_id": "ajiy2CSBRQ",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Relativa"
+                        ]
+                    },
+                    {
+                        "from_id": "GlNsrZXrLO",
+                        "to_id": "6QLhH-rDva",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Pronominal"
+                        ]
+                    },
+                    {
+                        "from_id": "sZz88USj8f",
+                        "to_id": "b0Xl-bZMcd",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Nominal"
+                        ]
+                    },
+                    {
+                        "from_id": "2m-HcbtuD0",
+                        "to_id": "EY1lLXWg25",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Apositiva"
+                        ]
+                    },
+                    {
+                        "from_id": "y1Ogspar6Q",
+                        "to_id": "6QLhH-rDva",
+                        "type": "relation",
+                        "direction": "bi",
+                        "labels": [
+                            "Correferencial"
+                        ]
+                    },
+                    {
+                        "from_id": "9y7JjCTItO",
+                        "to_id": "PxcKuy89iF",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Nominal"
+                        ]
+                    },
+                    {
+                        "from_id": "2sQYt8uqTY",
+                        "to_id": "zcD2masHU1",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Nominal"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-30T17:13:57.506695Z",
+                "updated_at": "2025-01-30T17:13:57.506695Z",
+                "draft_created_at": "2025-01-30T17:08:40.699747Z",
+                "lead_time": 29013.283,
+                "prediction": {},
+                "result_count": 30,
+                "unique_id": "fa9e9bc7-6c7e-43f7-83bd-0208e3b707e7",
+                "import_id": null,
+                "last_action": null,
+                "task": 33,
+                "project": 16,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            },
+            {
+                "id": 14,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 345,
+                            "end": 350,
+                            "text": "Ochoa",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "[\"https://dbpedia.org/page/Severo_Ochoa\"]"
+                            ]
+                        },
+                        "id": "qOQjESdDsH",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 462,
+                            "end": 470,
+                            "text": "Meyerhof",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Otto_Fritz_Meyerhof']"
+                            ]
+                        },
+                        "id": "MLh623zM7G",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 548,
+                            "end": 554,
+                            "text": "Carmen",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "id": "rZvMYJPnQC",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 328,
+                            "end": 333,
+                            "text": "Paton",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Diarmid_Noel_Paton']"
+                            ]
+                        },
+                        "id": "D4vzCUUCmN",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 639,
+                            "end": 652,
+                            "text": " Blas Cabrera",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Blas_Cabrera']"
+                            ]
+                        },
+                        "id": "fJaqYCYcnd",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1016,
+                            "end": 1022,
+                            "text": "España",
+                            "labels": [
+                                "GPE_NAT"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Spain']"
+                            ]
+                        },
+                        "id": "LfnRIwC3WQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1040,
+                            "end": 1081,
+                            "text": "Centro de Biología Molecular Severo Ochoa",
+                            "labels": [
+                                "ORG_SCI"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Autonomous_University_of_Madrid']"
+                            ]
+                        },
+                        "id": "Iewg-HjoRV",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 397,
+                            "end": 433,
+                            "text": "Junta para la Ampliación de Estudios",
+                            "labels": [
+                                "ORG_SCI"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Spanish_National_Research_Council']"
+                            ]
+                        },
+                        "id": "jajfF5yh4T",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 436,
+                            "end": 448,
+                            "text": " laboratorio",
+                            "labels": [
+                                "FAC"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Kaiser_Wilhelm_Society']"
+                            ]
+                        },
+                        "id": "nI-16fKFgA",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 306,
+                            "end": 313,
+                            "text": "Glasgow",
+                            "labels": [
+                                "GPE_PC"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Glasgow']"
+                            ]
+                        },
+                        "id": "cIbt28G_DY",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 69,
+                            "end": 76,
+                            "text": "Luarca,",
+                            "labels": [
+                                "GPE_PC"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Luarca']"
+                            ]
+                        },
+                        "id": "fovWp5lSC1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 1092,
+                            "end": 1114,
+                            "text": "1 de noviembre de 1993",
+                            "labels": [
+                                "DATE"
+                            ]
+                        },
+                        "id": "BHF14wPSFF",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 91,
+                            "end": 114,
+                            "text": "24 de noviembre de 1905",
+                            "labels": [
+                                "DATE"
+                            ]
+                        },
+                        "id": "lWkj7qiqfv",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 270,
+                            "end": 274,
+                            "text": "1927",
+                            "labels": [
+                                "DATE"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/1927']"
+                            ]
+                        },
+                        "id": "mBggDnNyfJ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 850,
+                            "end": 854,
+                            "text": "1974",
+                            "labels": [
+                                "DATE"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/1974']"
+                            ]
+                        },
+                        "id": "Cpg42iK7Po",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 225,
+                            "end": 229,
+                            "text": "1923",
+                            "labels": [
+                                "DATE"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/1923']"
+                            ]
+                        },
+                        "id": "5F9YN3TEtu",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 944,
+                            "end": 948,
+                            "text": "1959",
+                            "labels": [
+                                "DATE"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/1959']"
+                            ]
+                        },
+                        "id": "zqR85i6a5F",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 681,
+                            "end": 685,
+                            "text": "1942",
+                            "labels": [
+                                "DATE"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/1942']"
+                            ]
+                        },
+                        "id": "gmS-9TbMmS",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 375,
+                            "end": 390,
+                            "text": "beca honorífica",
+                            "labels": [
+                                "AWARD_GT"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Scholarship']"
+                            ]
+                        },
+                        "id": "rhamhWV7CL",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 903,
+                            "end": 941,
+                            "text": "premio Nobel de Fisiología o Medicina ",
+                            "labels": [
+                                "AWARD_G"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Nobel_Prize']"
+                            ]
+                        },
+                        "id": "K6_GNSMpAQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 360,
+                            "end": 366,
+                            "text": "Berlín",
+                            "labels": [
+                                "GPE_PC"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Berlin']"
+                            ]
+                        },
+                        "id": "yTVyjGU1Av",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 726,
+                            "end": 764,
+                            "text": "Departamento de Medicina de Nueva York",
+                            "labels": [
+                                "ORG_SCI"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/New_York_University']"
+                            ]
+                        },
+                        "id": "bAjyc5Iqnu",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 973,
+                            "end": 981,
+                            "text": "Kornberg",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Arthur_Kornberg']"
+                            ]
+                        },
+                        "id": "99vK9Y5g9w",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 986,
+                            "end": 990,
+                            "text": "1985",
+                            "labels": [
+                                "DATE"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/1985']"
+                            ]
+                        },
+                        "id": "jsDc2wiXc6",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 282,
+                            "end": 293,
+                            "text": "laboratorio",
+                            "labels": [
+                                "FAC"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/University_of_Glasgow']"
+                            ]
+                        },
+                        "id": "4BUrmjSbs9",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 319,
+                            "end": 327,
+                            "text": "profesor",
+                            "labels": [
+                                "TIT"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Professor']"
+                            ]
+                        },
+                        "id": "mErEViX1PT",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 453,
+                            "end": 461,
+                            "text": "profesor",
+                            "labels": [
+                                "TIT"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Professor']"
+                            ]
+                        },
+                        "id": "kHarBoU4r_",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 561,
+                            "end": 584,
+                            "text": "Casa de España en París",
+                            "labels": [
+                                "ORG_CULT"
+                            ]
+                        },
+                        "id": "28WmARhbkF",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 12,
+                            "text": "Severo Ochoa",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "[\"https://dbpedia.org/page/Severo_Ochoa\"]"
+                            ]
+                        },
+                        "id": "T-mNO_K7yr",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 78,
+                            "end": 86,
+                            "text": "Asturias",
+                            "labels": [
+                                "GPE_PROV"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Asturias']"
+                            ]
+                        },
+                        "id": "wAFl7RwmSE",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 191,
+                            "end": 221,
+                            "text": "Facultad de Medicina de Madrid",
+                            "labels": [
+                                "ORG_EDU"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Complutense_University_of_Madrid']"
+                            ]
+                        },
+                        "id": "xH-jAYlzDE",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 486,
+                            "end": 492,
+                            "text": "España",
+                            "labels": [
+                                "GPE_NAT"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Spain']"
+                            ]
+                        },
+                        "id": "TlyYGbwvRI",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 505,
+                            "end": 517,
+                            "text": "Guerra Civil",
+                            "labels": [
+                                "EVENT"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Spanish_Civil_War']"
+                            ]
+                        },
+                        "id": "b1GUhG9rm-",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 628,
+                            "end": 638,
+                            "text": "Pío Baroja",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/P%C3%ADo_Baroja']"
+                            ]
+                        },
+                        "id": "xX95yuBPk0",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 655,
+                            "end": 668,
+                            "text": "Xavier Zubiri",
+                            "labels": [
+                                "PER"
+                            ]
+                        },
+                        "meta": {
+                            "text": [
+                                "['https://dbpedia.org/page/Xavier_Zubiri']"
+                            ]
+                        },
+                        "id": "2K4WlzUSCz",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "fovWp5lSC1",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Nació en",
+                            "Enterrado en"
+                        ]
+                    },
+                    {
+                        "from_id": "fovWp5lSC1",
+                        "to_id": "wAFl7RwmSE",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Villa de"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "lWkj7qiqfv",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Nació el"
+                        ]
+                    },
+                    {
+                        "from_id": "wAFl7RwmSE",
+                        "to_id": "TlyYGbwvRI",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Comunidad Autónoma de"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "xH-jAYlzDE",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Estudiante de"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "5F9YN3TEtu",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Estudiante de Medicina desde"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "mBggDnNyfJ",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Inició investigaciones en"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "4BUrmjSbs9",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Inició investigaciones en"
+                        ]
+                    },
+                    {
+                        "from_id": "4BUrmjSbs9",
+                        "to_id": "cIbt28G_DY",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Situado en"
+                        ]
+                    },
+                    {
+                        "from_id": "4BUrmjSbs9",
+                        "to_id": "D4vzCUUCmN",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Dirigido por"
+                        ]
+                    },
+                    {
+                        "from_id": "D4vzCUUCmN",
+                        "to_id": "mErEViX1PT",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Con título de"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "yTVyjGU1Av",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Se trasladó a"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "rhamhWV7CL",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Recibió una"
+                        ]
+                    },
+                    {
+                        "from_id": "rhamhWV7CL",
+                        "to_id": "nI-16fKFgA",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Con destino en"
+                        ]
+                    },
+                    {
+                        "from_id": "rhamhWV7CL",
+                        "to_id": "jajfF5yh4T",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Concedida por"
+                        ]
+                    },
+                    {
+                        "from_id": "jajfF5yh4T",
+                        "to_id": "TlyYGbwvRI",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Situada en"
+                        ]
+                    },
+                    {
+                        "from_id": "nI-16fKFgA",
+                        "to_id": "MLh623zM7G",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Dirigido por"
+                        ]
+                    },
+                    {
+                        "from_id": "MLh623zM7G",
+                        "to_id": "kHarBoU4r_",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Con título de"
+                        ]
+                    },
+                    {
+                        "from_id": "nI-16fKFgA",
+                        "to_id": "yTVyjGU1Av",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Situado en"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "TlyYGbwvRI",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Regresó a",
+                            "Regresó definitivamente a"
+                        ]
+                    },
+                    {
+                        "from_id": "b1GUhG9rm-",
+                        "to_id": "TlyYGbwvRI",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Estalló en"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "b1GUhG9rm-",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Huyó de"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "rZvMYJPnQC",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Esposo de",
+                            "Huyó con",
+                            "Sepultado junto a"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "28WmARhbkF",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Se refugió en"
+                        ]
+                    },
+                    {
+                        "from_id": "28WmARhbkF",
+                        "to_id": "xX95yuBPk0",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Refugio de"
+                        ]
+                    },
+                    {
+                        "from_id": "28WmARhbkF",
+                        "to_id": "fJaqYCYcnd",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Refugio de"
+                        ]
+                    },
+                    {
+                        "from_id": "28WmARhbkF",
+                        "to_id": "2K4WlzUSCz",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Refugio de"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "xX95yuBPk0",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Compatriota de"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "fJaqYCYcnd",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Compatriota de"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "2K4WlzUSCz",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Compatriota de"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "gmS-9TbMmS",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Trabajó en NYU desde"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "bAjyc5Iqnu",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Trabajó en"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "Cpg42iK7Po",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Trabajó en NYU hasta"
+                        ]
+                    },
+                    {
+                        "from_id": "K6_GNSMpAQ",
+                        "to_id": "T-mNO_K7yr",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Otorgado a"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "zqR85i6a5F",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Recibió el Nobel en"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "99vK9Y5g9w",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Colega de"
+                        ]
+                    },
+                    {
+                        "from_id": "K6_GNSMpAQ",
+                        "to_id": "99vK9Y5g9w",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Otorgado a"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "jsDc2wiXc6",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Regresó a España en"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "Iewg-HjoRV",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Trabajó finalmente en"
+                        ]
+                    },
+                    {
+                        "from_id": "T-mNO_K7yr",
+                        "to_id": "BHF14wPSFF",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Murió el"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-01-30T17:23:13.941707Z",
+                "updated_at": "2025-01-30T17:23:13.941707Z",
+                "draft_created_at": "2025-01-30T17:18:39.074497Z",
+                "lead_time": 46206.652999999984,
+                "prediction": {},
+                "result_count": 36,
+                "unique_id": "d4f291ba-ea41-42d2-9986-e7a84367ad8b",
+                "import_id": null,
+                "last_action": null,
+                "task": 33,
+                "project": 16,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "4f20ad58-Ochoa.txt",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Severo Ochoa fue un médico, bioquímico y biólogo molecular. Nació en Luarca,  Asturias, el 24 de noviembre de 1905. Su vocación biológica fue clara desde joven, por lo que se matriculó en la Facultad de Medicina de Madrid en 1923. Su carrera investigadora comenzó en el 1927, en el laboratorio, situado en Glasgow, del profesor Paton. Más tarde Ochoa se fue a Berlín con una beca honorífica de la Junta para la Ampliación de Estudios al laboratorio del profesor Meyerhof. Tras volver a España, estalló la Guerra Civil y decidió irse con su esposa, Carmen, a la Casa de España en París, donde se encontró con otros compatriotas (Pío Baroja, Blas Cabrera o Xavier Zubiri). En el año 1942 consiguió una plaza para trabajar en el Departamento de Medicina de Nueva York, institución en la que desarrolló su brillante carrera docente e investigadora hasta 1974. Durante su estancia en este centro, recibió el premio Nobel de Fisiología o Medicina en 1959, junto con su compañero Kornberg. En 1985 volvió definitivamente a España a trabajar en el Centro de Biología Molecular Severo Ochoa. Murió el 1 de noviembre de 1993 y fue enterrado en su pueblo natal, junto a su mujer."
+        },
+        "meta": {},
+        "created_at": "2025-01-30T17:07:54.624106Z",
+        "updated_at": "2025-02-09T12:31:03.503024Z",
+        "inner_id": 1,
+        "total_annotations": 2,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 16,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]
