@@ -16,7 +16,7 @@ e)	Se han diseñado tripletas estructuradas de la forma sujeto-predicado-objeto 
 
 De ese modo, a través de un grafo, se han reflejado visualmente las conexiones entre las entidades identificadas mediante las relaciones establecidas, al tiempo que se ha representado sintéticamente la biografía del científico español.
 
-### Archivos del repositorio
+### Archivos del repositorio:
 
 - **ner_nel_re_correferencias_tripletas.pdf**: documento con la descripción del proceso completo y la representación gráfica del grafo.  
 - **Ner_correferencias.json**: archivo de anotación manual exportado desde *Label Studio* (entidades, relaciones, correferencias y vínculos NEL).  
