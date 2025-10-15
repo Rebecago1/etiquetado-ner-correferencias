@@ -8,7 +8,7 @@ a)	Se han identificado y clasificado las entidades nombradas, *Named Entity Reco
 
 b)	Se han establecido relaciones entre esas entidades.
 
-c)	Las entidades reconocidas se han vinculado (*Named Entity Linking, NEL*) con sus correspondientes entradas en DBpedia . 
+c)	Las entidades reconocidas se han vinculado (*Named Entity Linking, NEL*) con sus correspondientes entradas en DBpedia. 
 
 d)	Se ha realizado un análisis de correferencias, con el objetivo de reflejar redes semánticas intratextuales.
 
