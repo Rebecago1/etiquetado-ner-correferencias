@@ -1,4 +1,4 @@
-# Etiquetado de entidades, relaciones y correferencias (NER, RE & Coreference)
+# Etiquetado de entidades, relaciones, correferencias y vinculación semántica (NER, RE, Coreference & NEL)
 
 Este proyecto presenta la anotación semántica manual de un breve texto biográfico sobre el científico español Severo Ochoa mediante la herramienta de etiquetado de datos *Label Studio*. 
 
@@ -15,4 +15,3 @@ d)	Se ha realizado un análisis de correferencias, con el objetivo de reflejar r
 e)	Se han diseñado tripletas estructuradas de la forma sujeto-predicado-objeto con el fin de codificarlas en lenguaje *Resource Description Framework* (RDF). 
 
 De ese modo, a través de un grafo, se han reflejado visualmente las conexiones entre las entidades identificadas mediante las relaciones establecidas, al tiempo que se ha representado sintéticamente la biografía del científico español.
-
