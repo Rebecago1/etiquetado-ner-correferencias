@@ -1,6 +1,6 @@
 # Etiquetado de entidades, relaciones y correferencias (NER, RE & Coreference)
 
-Este proyecto presenta la anotación semántica manual de un breve texto biográfico sobre el científico español Severo Ochoa mediante la herramienta de etiquetado de datos Label Studio. 
+Este proyecto presenta la anotación semántica manual de un breve texto biográfico sobre el científico español Severo Ochoa mediante la herramienta de etiquetado de datos *Label Studio*. 
 
 En su desarrollo se han realizado las siguientes tareas de Procesamiento del Lenguaje Natural (PLN): 
 
