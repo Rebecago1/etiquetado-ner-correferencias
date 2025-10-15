@@ -18,6 +18,6 @@ De ese modo, a través de un grafo, se han reflejado visualmente las conexiones 
 
 ### Archivos del repositorio
 
-- **NER_NEL_Correferencias_Tripletas.pdf**: documento con la descripción del proceso completo y la representación gráfica del grafo.  
+- **ner_nel_re_correferencias_tripletas.pdf**: documento con la descripción del proceso completo y la representación gráfica del grafo.  
 - **Ner_correferencias.json**: archivo de anotación manual exportado desde *Label Studio* (entidades, relaciones, correferencias y vínculos NEL).  
 - **Ochoa.rdf**: codificación estructurada en formato RDF de las tripletas sujeto–predicado–objeto generadas a partir del análisis semántico.
