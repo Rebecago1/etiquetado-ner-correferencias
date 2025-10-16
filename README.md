@@ -1,4 +1,4 @@
-# Etiquetado de entidades, relaciones, correferencias y vinculación semántica (NER, RE, Coreference & NEL)
+# Etiquetado de entidades, relaciones, correferencias y vinculación semántica (NER, RE, coreference & NEL)
 
 Este proyecto, creado para la asignatura *Anotación Semántica*, integrada en el plan de estudios del Máster Universitario en PLN y aplicaciones de la IA a la Lingüística de la Universidad de La Rioja, presenta la anotación semántica manual de un breve texto biográfico sobre el científico español Severo Ochoa mediante la herramienta de etiquetado de datos *Label Studio*. 
 
